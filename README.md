@@ -1,4 +1,4 @@
-# Application de Billetterie
+Application de Billetterie
 
 Monorepo pour une application de billetterie complète :
 - **Backend** : Java Spring Boot
